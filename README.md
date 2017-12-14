@@ -1,0 +1,2 @@
+# Coin
+BitCoin generator c++
